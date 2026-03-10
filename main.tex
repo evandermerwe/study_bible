@@ -12,11 +12,15 @@
 \def\txsfile {bible_text/\tmark-\amark.txs} % Location of txs files
 \def\fmtfile {formats/fmt-\tmark-\amark.tex} % Location of fmt files
 \def\notesfile {notes/notes-\amark.tex} % Location of notes files
-\def\introfile {others/intro-\amark.tex} % Location of book introduction files
-\def\articlefile {others/articles-\amark.tex} % Location of article files
+\def\introfile {intros/intro-\amark.tex} % Location of book introduction files
+\def\articlefile {articles/articles-\amark.tex} % Location of article files
+
+% \let\notecolor=\relax
 
 \def\printedbooks {%
-    Luk
+    Luke
 }
+
 \processbooks % Generates document with books declared in \printedbooks
+
 \bye
