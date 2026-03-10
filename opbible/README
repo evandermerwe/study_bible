@@ -1,0 +1,27 @@
+OpBible: creating study Bibles using TeX
+
+Authors: Simon Konecny <simonkone@seznam.cz> (ideas and examples) 
+         Petr Olsak <petr@olsak.net> (implementation)
+
+License: GPL
+
+Version: see the beginning of the file macros/opbible.opm
+
+Necessary software: LuaTeX, OpTeX
+
+See also: http://opbible.org
+
+Files:
+
+macros/ ...   macro files, especially main macro file: opbible.opm.
+              These files should be installed in a directory where
+              LuaTeX can find them (for example to a TEXINPUT directory)
+
+doc/ ...      User documentation. The last section includes information,
+              how to generate the technical documentation.
+
+examples/ ... The sources of commented Bible book Daniel in English 
+              (6 translation variants) and in Czech (6 translation variants).
+
+txs-gen/ ...  tools for generating txs files from Sword sources.
+
