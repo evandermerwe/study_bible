@@ -84,14 +84,14 @@
 \_opb_Xdest{v:Luke/1:64}
 \_opb_Xdest{v:Luke/1:65}
 \_opb_Xdest{v:Luke/1:66}
+\_opb_Xdest{n:Luke/1:35}
+\_Xpage{3}{3}
 \_opb_Xdest{v:Luke/1:67}
 \_opb_Xdest{v:Luke/1:68}
 \_opb_Xdest{v:Luke/1:69}
 \_opb_Xdest{v:Luke/1:70}
 \_opb_Xdest{v:Luke/1:71}
 \_opb_Xdest{v:Luke/1:72}
-\_opb_Xdest{n:Luke/1:35}
-\_Xpage{3}{3}
 \_opb_Xdest{v:Luke/1:73}
 \_opb_Xdest{v:Luke/1:74}
 \_opb_Xdest{v:Luke/1:75}
@@ -140,12 +140,12 @@
 \_opb_Xdest{v:Luke/2:36}
 \_opb_Xdest{v:Luke/2:37}
 \_opb_Xdest{v:Luke/2:38}
+\_Xpage{4}{4}
 \_opb_Xdest{v:Luke/2:39}
 \_opb_Xdest{v:Luke/2:40}
 \_opb_Xdest{v:Luke/2:41}
 \_opb_Xdest{v:Luke/2:42}
 \_opb_Xdest{v:Luke/2:43}
-\_Xpage{4}{4}
 \_opb_Xdest{v:Luke/2:44}
 \_opb_Xdest{v:Luke/2:45}
 \_opb_Xdest{v:Luke/2:46}
@@ -187,11 +187,11 @@
 \_opb_Xdest{v:Luke/3:28}
 \_opb_Xdest{v:Luke/3:29}
 \_opb_Xdest{v:Luke/3:30}
+\_Xpage{5}{5}
 \_opb_Xdest{v:Luke/3:31}
 \_opb_Xdest{v:Luke/3:32}
 \_opb_Xdest{v:Luke/3:33}
 \_opb_Xdest{v:Luke/3:34}
-\_Xpage{5}{5}
 \_opb_Xdest{v:Luke/3:35}
 \_opb_Xdest{v:Luke/3:36}
 \_opb_Xdest{v:Luke/3:37}
@@ -236,11 +236,11 @@
 \_opb_Xdest{v:Luke/4:36}
 \_opb_Xdest{v:Luke/4:37}
 \_opb_Xdest{v:Luke/4:38}
+\_Xpage{6}{6}
 \_opb_Xdest{v:Luke/4:39}
 \_opb_Xdest{v:Luke/4:40}
 \_opb_Xdest{v:Luke/4:41}
 \_opb_Xdest{v:Luke/4:42}
-\_Xpage{6}{6}
 \_opb_Xdest{v:Luke/4:43}
 \_opb_Xdest{v:Luke/4:44}
 \_Xlabel{cref!Luke 5}{Luke~5}
@@ -281,10 +281,10 @@
 \_opb_Xdest{v:Luke/5:34}
 \_opb_Xdest{v:Luke/5:35}
 \_opb_Xdest{v:Luke/5:36}
+\_Xpage{7}{7}
 \_opb_Xdest{v:Luke/5:37}
 \_opb_Xdest{v:Luke/5:38}
 \_opb_Xdest{v:Luke/5:39}
-\_Xpage{7}{7}
 \_Xlabel{cref!Luke 6}{Luke~6}
 \_sxdef{ch!Luke/6}{\_opb_mypage}
 \_opb_Xdest{v:Luke/6:1}
@@ -331,8 +331,8 @@
 \_opb_Xdest{v:Luke/6:42}
 \_opb_Xdest{v:Luke/6:43}
 \_opb_Xdest{v:Luke/6:44}
-\_opb_Xdest{v:Luke/6:45}
 \_Xpage{8}{8}
+\_opb_Xdest{v:Luke/6:45}
 \_opb_Xdest{v:Luke/6:46}
 \_opb_Xdest{v:Luke/6:47}
 \_opb_Xdest{v:Luke/6:48}
@@ -375,9 +375,9 @@
 \_opb_Xdest{v:Luke/7:34}
 \_opb_Xdest{v:Luke/7:35}
 \_opb_Xdest{v:Luke/7:36}
+\_Xpage{9}{9}
 \_opb_Xdest{v:Luke/7:37}
 \_opb_Xdest{v:Luke/7:38}
-\_Xpage{9}{9}
 \_opb_Xdest{v:Luke/7:39}
 \_opb_Xdest{v:Luke/7:40}
 \_opb_Xdest{v:Luke/7:41}
@@ -420,9 +420,9 @@
 \_opb_Xdest{v:Luke/8:26}
 \_opb_Xdest{v:Luke/8:27}
 \_opb_Xdest{v:Luke/8:28}
+\_Xpage{10}{10}
 \_opb_Xdest{v:Luke/8:29}
 \_opb_Xdest{v:Luke/8:30}
-\_Xpage{10}{10}
 \_opb_Xdest{v:Luke/8:31}
 \_opb_Xdest{v:Luke/8:32}
 \_opb_Xdest{v:Luke/8:33}
@@ -466,10 +466,10 @@
 \_opb_Xdest{v:Luke/9:13}
 \_opb_Xdest{v:Luke/9:14}
 \_opb_Xdest{v:Luke/9:15}
+\_Xpage{11}{11}
 \_opb_Xdest{v:Luke/9:16}
 \_opb_Xdest{v:Luke/9:17}
 \_opb_Xdest{v:Luke/9:18}
-\_Xpage{11}{11}
 \_opb_Xdest{v:Luke/9:19}
 \_opb_Xdest{v:Luke/9:20}
 \_opb_Xdest{v:Luke/9:21}
@@ -514,11 +514,11 @@
 \_opb_Xdest{v:Luke/9:60}
 \_opb_Xdest{v:Luke/9:61}
 \_opb_Xdest{v:Luke/9:62}
+\_Xpage{12}{12}
 \_Xlabel{cref!Luke 10}{Luke~10}
 \_sxdef{ch!Luke/10}{\_opb_mypage}
 \_opb_Xdest{v:Luke/10:1}
 \_opb_Xdest{v:Luke/10:2}
-\_Xpage{12}{12}
 \_opb_Xdest{v:Luke/10:3}
 \_opb_Xdest{v:Luke/10:4}
 \_opb_Xdest{v:Luke/10:5}
@@ -563,10 +563,10 @@
 \_sxdef{ch!Luke/11}{\_opb_mypage}
 \_opb_Xdest{v:Luke/11:1}
 \_opb_Xdest{v:Luke/11:2}
+\_Xpage{13}{13}
 \_opb_Xdest{v:Luke/11:3}
 \_opb_Xdest{v:Luke/11:4}
 \_opb_Xdest{v:Luke/11:5}
-\_Xpage{13}{13}
 \_opb_Xdest{v:Luke/11:6}
 \_opb_Xdest{v:Luke/11:7}
 \_opb_Xdest{v:Luke/11:8}
@@ -610,10 +610,10 @@
 \_opb_Xdest{v:Luke/11:46}
 \_opb_Xdest{v:Luke/11:47}
 \_opb_Xdest{v:Luke/11:48}
+\_Xpage{14}{14}
 \_opb_Xdest{v:Luke/11:49}
 \_opb_Xdest{v:Luke/11:50}
 \_opb_Xdest{v:Luke/11:51}
-\_Xpage{14}{14}
 \_opb_Xdest{v:Luke/11:52}
 \_opb_Xdest{v:Luke/11:53}
 \_opb_Xdest{v:Luke/11:54}
@@ -658,12 +658,12 @@
 \_opb_Xdest{v:Luke/12:37}
 \_opb_Xdest{v:Luke/12:38}
 \_opb_Xdest{v:Luke/12:39}
+\_Xpage{15}{15}
 \_opb_Xdest{v:Luke/12:40}
 \_opb_Xdest{v:Luke/12:41}
 \_opb_Xdest{v:Luke/12:42}
 \_opb_Xdest{v:Luke/12:43}
 \_opb_Xdest{v:Luke/12:44}
-\_Xpage{15}{15}
 \_opb_Xdest{v:Luke/12:45}
 \_opb_Xdest{v:Luke/12:46}
 \_opb_Xdest{v:Luke/12:47}
@@ -707,10 +707,10 @@
 \_opb_Xdest{v:Luke/13:24}
 \_opb_Xdest{v:Luke/13:25}
 \_opb_Xdest{v:Luke/13:26}
+\_Xpage{16}{16}
 \_opb_Xdest{v:Luke/13:27}
 \_opb_Xdest{v:Luke/13:28}
 \_opb_Xdest{v:Luke/13:29}
-\_Xpage{16}{16}
 \_opb_Xdest{v:Luke/13:30}
 \_opb_Xdest{v:Luke/13:31}
 \_opb_Xdest{v:Luke/13:32}
@@ -754,12 +754,12 @@
 \_opb_Xdest{v:Luke/14:33}
 \_opb_Xdest{v:Luke/14:34}
 \_opb_Xdest{v:Luke/14:35}
+\_Xpage{17}{17}
 \_Xlabel{cref!Luke 15}{Luke~15}
 \_sxdef{ch!Luke/15}{\_opb_mypage}
 \_opb_Xdest{v:Luke/15:1}
 \_opb_Xdest{v:Luke/15:2}
 \_opb_Xdest{v:Luke/15:3}
-\_Xpage{17}{17}
 \_opb_Xdest{v:Luke/15:4}
 \_opb_Xdest{v:Luke/15:5}
 \_opb_Xdest{v:Luke/15:6}
@@ -804,10 +804,10 @@
 \_opb_Xdest{v:Luke/16:11}
 \_opb_Xdest{v:Luke/16:12}
 \_opb_Xdest{v:Luke/16:13}
+\_Xpage{18}{18}
 \_opb_Xdest{v:Luke/16:14}
 \_opb_Xdest{v:Luke/16:15}
 \_opb_Xdest{v:Luke/16:16}
-\_Xpage{18}{18}
 \_opb_Xdest{v:Luke/16:17}
 \_opb_Xdest{v:Luke/16:18}
 \_opb_Xdest{v:Luke/16:19}
@@ -854,12 +854,12 @@
 \_opb_Xdest{v:Luke/17:27}
 \_opb_Xdest{v:Luke/17:28}
 \_opb_Xdest{v:Luke/17:29}
+\_Xpage{19}{19}
 \_opb_Xdest{v:Luke/17:30}
 \_opb_Xdest{v:Luke/17:31}
 \_opb_Xdest{v:Luke/17:32}
 \_opb_Xdest{v:Luke/17:33}
 \_opb_Xdest{v:Luke/17:34}
-\_Xpage{19}{19}
 \_opb_Xdest{v:Luke/17:35}
 \_opb_Xdest{v:Luke/17:36}
 \_opb_Xdest{v:Luke/17:37}
@@ -908,6 +908,7 @@
 \_opb_Xdest{v:Luke/18:41}
 \_opb_Xdest{v:Luke/18:42}
 \_opb_Xdest{v:Luke/18:43}
+\_Xpage{20}{20}
 \_Xlabel{cref!Luke 19}{Luke~19}
 \_sxdef{ch!Luke/19}{\_opb_mypage}
 \_opb_Xdest{v:Luke/19:1}
@@ -915,7 +916,6 @@
 \_opb_Xdest{v:Luke/19:3}
 \_opb_Xdest{v:Luke/19:4}
 \_opb_Xdest{v:Luke/19:5}
-\_Xpage{20}{20}
 \_opb_Xdest{v:Luke/19:6}
 \_opb_Xdest{v:Luke/19:7}
 \_opb_Xdest{v:Luke/19:8}
@@ -959,6 +959,7 @@
 \_opb_Xdest{v:Luke/19:46}
 \_opb_Xdest{v:Luke/19:47}
 \_opb_Xdest{v:Luke/19:48}
+\_Xpage{21}{21}
 \_Xlabel{cref!Luke 20}{Luke~20}
 \_sxdef{ch!Luke/20}{\_opb_mypage}
 \_opb_Xdest{v:Luke/20:1}
@@ -967,7 +968,6 @@
 \_opb_Xdest{v:Luke/20:4}
 \_opb_Xdest{v:Luke/20:5}
 \_opb_Xdest{v:Luke/20:6}
-\_Xpage{21}{21}
 \_opb_Xdest{v:Luke/20:7}
 \_opb_Xdest{v:Luke/20:8}
 \_opb_Xdest{v:Luke/20:9}
@@ -1015,12 +1015,12 @@
 \_opb_Xdest{v:Luke/21:2}
 \_opb_Xdest{v:Luke/21:3}
 \_opb_Xdest{v:Luke/21:4}
+\_Xpage{22}{22}
 \_opb_Xdest{v:Luke/21:5}
 \_opb_Xdest{v:Luke/21:6}
 \_opb_Xdest{v:Luke/21:7}
 \_opb_Xdest{v:Luke/21:8}
 \_opb_Xdest{v:Luke/21:9}
-\_Xpage{22}{22}
 \_opb_Xdest{v:Luke/21:10}
 \_opb_Xdest{v:Luke/21:11}
 \_opb_Xdest{v:Luke/21:12}
@@ -1070,6 +1070,7 @@
 \_opb_Xdest{v:Luke/22:16}
 \_opb_Xdest{v:Luke/22:17}
 \_opb_Xdest{v:Luke/22:18}
+\_Xpage{23}{23}
 \_opb_Xdest{v:Luke/22:19}
 \_opb_Xdest{v:Luke/22:20}
 \_opb_Xdest{v:Luke/22:21}
@@ -1077,7 +1078,6 @@
 \_opb_Xdest{v:Luke/22:23}
 \_opb_Xdest{v:Luke/22:24}
 \_opb_Xdest{v:Luke/22:25}
-\_Xpage{23}{23}
 \_opb_Xdest{v:Luke/22:26}
 \_opb_Xdest{v:Luke/22:27}
 \_opb_Xdest{v:Luke/22:28}
@@ -1124,6 +1124,7 @@
 \_opb_Xdest{v:Luke/22:69}
 \_opb_Xdest{v:Luke/22:70}
 \_opb_Xdest{v:Luke/22:71}
+\_Xpage{24}{24}
 \_Xlabel{cref!Luke 23}{Luke~23}
 \_sxdef{ch!Luke/23}{\_opb_mypage}
 \_opb_Xdest{v:Luke/23:1}
@@ -1132,7 +1133,6 @@
 \_opb_Xdest{v:Luke/23:4}
 \_opb_Xdest{v:Luke/23:5}
 \_opb_Xdest{v:Luke/23:6}
-\_Xpage{24}{24}
 \_opb_Xdest{v:Luke/23:7}
 \_opb_Xdest{v:Luke/23:8}
 \_opb_Xdest{v:Luke/23:9}
@@ -1178,6 +1178,7 @@
 \_opb_Xdest{v:Luke/23:49}
 \_opb_Xdest{v:Luke/23:50}
 \_opb_Xdest{v:Luke/23:51}
+\_Xpage{25}{25}
 \_opb_Xdest{v:Luke/23:52}
 \_opb_Xdest{v:Luke/23:53}
 \_opb_Xdest{v:Luke/23:54}
@@ -1187,7 +1188,6 @@
 \_sxdef{ch!Luke/24}{\_opb_mypage}
 \_opb_Xdest{v:Luke/24:1}
 \_opb_Xdest{v:Luke/24:2}
-\_Xpage{25}{25}
 \_opb_Xdest{v:Luke/24:3}
 \_opb_Xdest{v:Luke/24:4}
 \_opb_Xdest{v:Luke/24:5}
@@ -1233,6 +1233,7 @@
 \_opb_Xdest{v:Luke/24:45}
 \_opb_Xdest{v:Luke/24:46}
 \_opb_Xdest{v:Luke/24:47}
+\_Xpage{26}{26}
 \_opb_Xdest{v:Luke/24:48}
 \_opb_Xdest{v:Luke/24:49}
 \_opb_Xdest{v:Luke/24:50}

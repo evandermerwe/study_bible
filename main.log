@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=optex 2026.1.30)  10 MAR 2026 15:48
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=optex 2026.1.30)  10 MAR 2026 15:57
  restricted system commands enabled.
 **main.tex
 (./main.tex This is OpTeX (Olsak's Plain TeX), version <1.17 Feb 2025>
@@ -118,18 +118,18 @@ Modifier:
 the Highest shall overshadow thee} (1)
  [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] 
 [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]
-[14] [15] [16] [17] [18] [19] [20] [21] [22] [23]) [24] [25])</usr/local/texlive
-/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheroscn-regular.otf></usr
-/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheroscn-ita
-lic.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgy
-reheroscn-bold.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex
--gyre/texgyretermes-italic.otf></usr/local/texlive/2025/texmf-dist/fonts/opentyp
-e/public/tex-gyre/texgyretermes-regular.otf></usr/local/texlive/2025/texmf-dist/
-fonts/opentype/public/tex-gyre/texgyretermes-bold.otf>
-Output written on main.pdf (25 pages, 457299 bytes).
+[14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24]) [25] [26])</usr/local/te
+xlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheroscn-regular.otf>
+</usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyreherosc
+n-italic.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/
+texgyreheroscn-bold.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/publi
+c/tex-gyre/texgyretermes-italic.otf></usr/local/texlive/2025/texmf-dist/fonts/op
+entype/public/tex-gyre/texgyretermes-regular.otf></usr/local/texlive/2025/texmf-
+dist/fonts/opentype/public/tex-gyre/texgyretermes-bold.otf>
+Output written on main.pdf (26 pages, 458082 bytes).
 
-PDF statistics: 181 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
- 51 named destinations out of 1000 (max. 131072)
+PDF statistics: 185 PDF objects out of 1000 (max. 8388607)
+ 137 compressed objects within 2 object streams
+ 52 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
