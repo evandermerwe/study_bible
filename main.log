@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=optex 2026.1.30)  10 MAR 2026 15:57
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=optex 2026.1.30)  21 MAR 2026 14:12
  restricted system commands enabled.
 **main.tex
 (./main.tex This is OpTeX (Olsak's Plain TeX), version <1.17 Feb 2025>
@@ -110,23 +110,44 @@ Modifier:
 ** The Gospel according to Luke {Luke} (\tmark: KJV) **
 
 (./intros/intro-Luke.tex) (./formats/fmt-KJV-Luke.tex) (./notes/notes-Luke.tex) (./bible_text/KJV-Luke.txs
-  \Note 1:6 {walking}={walking} (2)
-  \Note 1:11 {the Lord}={the Lord} (3)
-  \Note 1:11 {right side}={right side} (4)
+  \Note 1:6 {walking}={walking} (1)
+  \Note 1:11 {the Lord}={the Lord} (2)
+  \Note 1:11 {right side}={right side} (3)
+  \Note 1:13 {Fear not}={Fear not} (4)
+  \Note 1:14 {joy and gladness}={joy and gladness} (5)
+  \Note 1:15 {Holy Ghost}={Holy Ghost} (6)
+
+WARNING l.17: \Note: Luke/1:17: The text "the spirit and power of Elijah" not f
+ound.
+  \Note 1:17 {}={the spirit and power of Elijah} (7)
+  \Note 1:17 {the hearts of the fathers to the children}={the hearts of the fat
+hers to the children} (8)
+  \Note 1:19 {that stand in the presence of God}={that stand in the presence of
+ God} (9)
+  \Note 1:25 {he looked on me, to take away my reproach among men}={he looked o
+n me, to take away my reproach among men} (10)
+[1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+  \Note 1:32 {Son of the Highest}={Son of the Highest} (11)
+  \Note 1:33 {reign over the house of Jacob}={reign over the house of Jacob} (1
+2)
+  \Note 1:33 {of his kingdom there shall be no end}={of his kingdom there shall
+ be no end} (13)
   \Note 1:35 {The Holy Ghost shall come upon thee, and the power of the Highest
  shall overshadow thee}={The Holy Ghost shall come upon thee, and the power of 
-the Highest shall overshadow thee} (1)
- [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] 
-[3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]
-[14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24]) [25] [26])</usr/local/te
-xlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheroscn-regular.otf>
-</usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyreherosc
-n-italic.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/
-texgyreheroscn-bold.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/publi
-c/tex-gyre/texgyretermes-italic.otf></usr/local/texlive/2025/texmf-dist/fonts/op
-entype/public/tex-gyre/texgyretermes-regular.otf></usr/local/texlive/2025/texmf-
-dist/fonts/opentype/public/tex-gyre/texgyretermes-bold.otf>
-Output written on main.pdf (26 pages, 458082 bytes).
+the Highest shall overshadow thee} (14)
+  \Note 1:35 {Son of God}={Son of God} (15)
+
+[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
+[18] [19] [20] [21] [22] [23] [24]) [25] [26]
+WARNING l.26: Try to rerun, main.ref file was changed.
+)</usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros
+cn-regular.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyr
+e/texgyreheroscn-italic.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/p
+ublic/tex-gyre/texgyreheroscn-bold.otf></usr/local/texlive/2025/texmf-dist/fonts
+/opentype/public/tex-gyre/texgyretermes-italic.otf></usr/local/texlive/2025/texm
+f-dist/fonts/opentype/public/tex-gyre/texgyretermes-regular.otf></usr/local/texl
+ive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyretermes-bold.otf>
+Output written on main.pdf (26 pages, 474017 bytes).
 
 PDF statistics: 185 PDF objects out of 1000 (max. 8388607)
  137 compressed objects within 2 object streams
