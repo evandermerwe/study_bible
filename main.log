@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=optex 2026.1.30)  22 MAR 2026 14:32
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=optex 2026.1.30)  8 SEP 2026 15:08
  restricted system commands enabled.
 **main.tex
 (./main.tex This is OpTeX (Olsak's Plain TeX), version <1.17 Feb 2025>
@@ -107,55 +107,57 @@ Modifier:
 \_opb_outfile=\write3
 ) (./books.tex)
 
-** The Gospel according to Luke {Luke} (\tmark: KJV) **
+** Revelation {Rev} (\tmark: KJV) **
 
-(./intros/intro-Luke.tex) (./formats/fmt-KJV-Luke.tex) (./notes/notes-Luke.tex) (./bible_text/KJV-Luke.txs
-  \Note 1:6 {walking}={walking} (1)
-  \Note 1:11 {the Lord}={the Lord} (2)
-  \Note 1:11 {right side}={right side} (3)
-  \Note 1:13 {Fear not}={Fear not} (4)
-  \Note 1:14 {joy and gladness}={joy and gladness} (5)
-  \Note 1:15 {Holy Ghost}={Holy Ghost} (6)
+(./intros/intro-Rev.tex) (./formats/fmt-KJV-Rev.tex) (./notes/notes-Rev.tex)
+(./bible_text/KJV-Rev.txs [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/
+updmap/pdftex.map}] [2]
+WARNING l.72: \Note: Rev/4:1: The text "things to come hereafter" not found.
+[3]
+  \Note 4:1 {}={things to come hereafter} (3)
+  \Note 4:1 {door was opened in heaven}={door was opened in heaven} (1)
+  \Note 4:1 {voice which I heard was as it were of a trumpet}={voice which I he
+ard was as it were of a trumpet} (2)
+  \Note 4:2 {throne}={throne} (4)
+  \Note 4:2 {one sat on the throne}={one sat on the throne} (5)
+  \Note 4:3 {jasper}={jasper} (7)
+  \Note 4:3 {sardine}={sardine} (8)
+  \Note 4:3 {stone}={stone} (6)
+  \Note 4:3 {rainbow round about the throne, in sight like unto an emerald}={ra
+inbow round about the throne, in sight like unto an emerald} (9)
+  \Note  {}={} (12)
+  \Note 4:4 {four and twenty}={four and twenty} (10)
+  \Note 4:4 {seats}={seats} (11)
+  \Note 4:4 {white raiment}={white raiment} (13)
+  \Note 4:4 {crowns of gold}={crowns of gold} (14)
+  \Note  {}={} (15)
+  \Note 4:5 {lightnings}={lightnings} (16)
+  \Note 4:5 {thunderings}={thunderings} (17)
+  \Note 4:5 {voices}={voices} (18)
+  \Note 4:6 {sea}={sea} (19)
+  \Note 4:6 {crystal}={crystal} (20)
+  \Note 4:6 {four beasts}={four beasts} (21)
+  \Note 4:6 {eyes}={eyes} (22)
+  \Note  {}={} (23)
+  \Note 4:7 {lion}={lion} (24)
+  \Note 4:7 {calf}={calf} (25)
+  \Note 4:7 {man}={man} (26)
+  \Note 4:7 {eagle}={eagle} (27)
+  \Note  {}={} (28)
+  \Note 4:8 {wings}={wings} (29)
+  \Note 4:8 {full of eyes within}={full of eyes within} (30)
+  \Note 4:8 {Holy, holy, holy}={Holy, holy, holy} (31)
+ [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]) [14] [15])</usr/local/texlive/2025
+/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheroscn-regular.otf></usr/loca
+l/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheroscn-bold.otf
+></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyreterme
+s-italic.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/
+texgyretermes-regular.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/pub
+lic/tex-gyre/texgyretermes-bold.otf>
+Output written on main.pdf (15 pages, 251928 bytes).
 
-WARNING l.17: \Note: Luke/1:17: The text "the spirit and power of Elijah" not f
-ound.
-  \Note 1:17 {}={the spirit and power of Elijah} (7)
-  \Note 1:17 {the hearts of the fathers to the children}={the hearts of the fat
-hers to the children} (8)
-  \Note 1:19 {that stand in the presence of God}={that stand in the presence of
- God} (9)
-  \Note 1:25 {he looked on me, to take away my reproach among men}={he looked o
-n me, to take away my reproach among men} (10)
-[1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-  \Note 1:32 {Son of the Highest}={Son of the Highest} (11)
-  \Note 1:33 {reign over the house of Jacob}={reign over the house of Jacob} (1
-2)
-  \Note 1:33 {of his kingdom there shall be no end}={of his kingdom there shall
- be no end} (13)
-  \Note 1:35 {The Holy Ghost shall come upon thee, and the power of the Highest
- shall overshadow thee}={The Holy Ghost shall come upon thee, and the power of 
-the Highest shall overshadow thee} (14)
-  \Note 1:35 {Son of God}={Son of God} (15)
-  \Note 1:41 {the babe leaped in her womb}={the babe leaped in her womb} (16)
-  \Note 1:41 {filled with the Holy Ghost}={filled with the Holy Ghost} (17)
-
-[2]
-  \Note 1:46 {My soul}={My soul} (18)
-  \Note 1:47 {spirit}={spirit} (19)
-  \Note 1:50 {them that fear him}={them that fear him} (20)
- [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
-[18] [19] [20] [21] [22] [23] [24]) [25] [26])</usr/local/texlive/2025/texmf-dis
-t/fonts/opentype/public/tex-gyre/texgyreheroscn-regular.otf></usr/local/texlive/
-2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheroscn-italic.otf></usr/l
-ocal/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheroscn-bold.
-otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gyre/texgyrete
-rmes-italic.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/tex-gy
-re/texgyretermes-regular.otf></usr/local/texlive/2025/texmf-dist/fonts/opentype/
-public/tex-gyre/texgyretermes-bold.otf>
-Output written on main.pdf (26 pages, 479120 bytes).
-
-PDF statistics: 185 PDF objects out of 1000 (max. 8388607)
- 137 compressed objects within 2 object streams
- 52 named destinations out of 1000 (max. 131072)
+PDF statistics: 130 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
+ 39 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
