@@ -1,0 +1,62 @@
+Study Bible
+Copyright (c) 2026 Eric van der Merwe
+
+This repository contains material under more than one license. The LICENSE
+file is the MIT License. It applies only to the files listed under "Original
+work" below.
+
+Original work
+-------------
+
+Copyright (c) 2026 Eric van der Merwe. Licensed under the MIT License (see
+the LICENSE file).
+
+This copyright covers the study notes, introductions, formatting, articles,
+the document driver, and the Project Gutenberg conversion script:
+
+    notes/
+    intros/
+    formats/
+    articles/
+    main.tex
+    bible_text/convert_to_txs.py
+
+Copyright in contributions to the study notes, introductions, formatting,
+and articles is assigned to Eric van der Merwe on the terms in
+CONTRIBUTING.md. He licenses that material under the MIT License.
+
+OpBible
+------
+
+The opbible/ directory is third-party software by Petr Olšák and Šimon
+Konečný. It may be copied, distributed, and used under the GNU General
+Public License, version 2 (June 1991). See:
+
+    opbible/README
+    opbible/doc/opbible-doc.tex
+    LICENSES/GPL-2.0.txt
+
+opbible/txs-gen/mod2tex.cpp is Copyright 2002-2013 CrossWire Bible Society
+and is also under the GNU General Public License, version 2.
+
+books.tex is adapted from the OpBible English examples and remains under
+the GNU General Public License, version 2.
+
+Project Gutenberg texts
+-----------------------
+
+These files are Project Gutenberg ebooks. Redistribution is subject to the
+Project Gutenberg License included in each file. The Project Gutenberg
+trademark is used here only to identify that source.
+
+    bible_text/luke_kjv.txt
+    bible_text/rev_kjv.txt
+
+The King James Version text is in the public domain in the United States.
+The verse files extracted from those ebooks are that public-domain text:
+
+    bible_text/KJV-Luke.txs
+    bible_text/KJV-Rev.txs
+
+Those verse files are not part of the original study notes, and they are
+not relicensed under the MIT License.
